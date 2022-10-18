@@ -14,5 +14,8 @@ cd chat_app
 
 Note: in order to make network calls, the router from [nic_net](https://github.com/Jessicat-H/nic_net) must be running on the computer you wish to run the application on.
 
+## Data Structure
+This application calls the sendMessage function of the [nic_app](https://github.com/tonydoesathing/nic_app) library, passing it a destination to send the message to, a string of text recieved from the user, the length in bytes of that text, and the app id defined for this application.
+
 ## Authors
 The following code was written by [Jessica Hannebert](https://github.com/Jessicat-H), [Dylan Chapell](https://github.com/dylanchapell), and [Tony Mastromarino](https://github.com/tonydoesathing).
