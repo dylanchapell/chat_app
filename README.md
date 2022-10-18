@@ -3,7 +3,7 @@ A commandline chat application which runs on the network designed in CP341 Compu
 
 ## Introduction
 This C project provides an example application that works on the custom CP341 network.
-- `chat.c` is an example CLI that makes use of the module to interactively send and receive chat messages on the network.
+- `chat.c` is an example CLI that makes use of the applictation layer to interactively send and receive chat messages on the network.
 
 ## Building and Running
 This code depends on our nic_app library, which is available [here](https://github.com/tonydoesathing/nic_app). To compile and run the code, run the following commands:  
