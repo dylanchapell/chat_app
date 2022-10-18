@@ -8,7 +8,7 @@ This C project provides an example application that works on the custom CP341 ne
 ## Building and Running
 This code depends on our nic_app library, which is available [here](https://github.com/tonydoesathing/nic_app). To compile and run the code, run the following commands:  
 git clone https://github.com/tonydoesathing/nic_app
-cd nic_app  
+cd chat_app  
 ./library_script.sh  
 ./src/chat
 
